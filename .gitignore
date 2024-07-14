@@ -1,1 +1,4 @@
 node_modules
+somewhere_safe.txt
+
+mongodb+srv://ryanmcentire89:Chamonix7Chamonix7@express-library0.psyms12.mongodb.net/local_library?retryWrites=true&w=majority&appName=express-library0
